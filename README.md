@@ -18,5 +18,5 @@ Backend com Java e Kotlin, focado em arquitetura de software e em engenharia de 
 
 ## 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JaoVitorMS&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=JaoVitorMS&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVitorMS&layout=compact&hide_border=true)
