@@ -2,22 +2,21 @@
 
 **Software Engineer** · Brasil 🇧🇷 · [ZSH Organization](https://github.com/ZSH-Organization)
 
-Backend com Java e Kotlin, front com TypeScript, e interesse em verificação formal e qualidade de software.
+Backend com Java e Kotlin, e interesse em Arquitetura de software e engenharia de software baseada em evidência
 
 ## 🛠️ Stack
 
-![Java](https://skillicons.dev/icons?i=java,kotlin,ts,py,bash,react,spring,maven,docker,git)
+![Java](https://skillicons.dev/icons?i=java,kotlin,py,bash,spring,maven,docker,git)
 
 ## 📚 Em foco
 
 - Desenvolvimento backend (Java / Kotlin, Quarkus, Ktor)
-- Aplicações web e mobile
-- Verificação e Validação de software (Dafny, Selenium)
-- Automação e infraestrutura (Docker, Shell)
+- Aplicações backend e mobile
+- Arquiterura de software nivel de codigo e projeto
+- Automação e infraestrutura (Docker, AWS, Hetzner e Dokploy)
 
 ## 🔗 Links
-
-- 🌐 Portfólio: [jaovitorms.github.io](https://jaovitorms.github.io)
+-- em breve
 
 ## 📊 GitHub
 
