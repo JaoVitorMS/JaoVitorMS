@@ -1,6 +1,6 @@
 # Olá, eu sou o João Vitor 👋
 
-**Software Engineer** · Brasil 🇧🇷 · [ZSH Organization](https://github.com/ZSH-Organization)
+**Software Engineer** · Brasil 🇧🇷 · [ZSH Lab Organization](https://github.com/ZSH-Lab-Organization)
 
 Backend com Java e Kotlin, focado em arquitetura de software e em engenharia de software baseada em evidência.
 
